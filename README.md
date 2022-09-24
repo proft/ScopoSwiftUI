@@ -7,4 +7,4 @@ To setup the project you should create a [Firebase project](https://firebase.goo
 
 | Goals list | Add goal |
 | :---: |  :---: |
-| ![Task list](https://en.proft.me/media/ios/swtiftua_scopo_1.png) | ![Add task](https://en.proft.me/media/ios/swtiftua_scopo_2.png) |
+| ![Task list](https://en.proft.me/media/ios/swiftua_scopo_1.png) | ![Add task](https://en.proft.me/media/ios/swiftua_scopo_2.png) |
